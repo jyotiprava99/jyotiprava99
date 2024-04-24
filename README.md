@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiprava99&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiprava99" /> </p>
 
-- 🔭 I’m currently working on ** learning new skills.**
+- 🔭 I’m currently working on **learning new skills.**
 
 - 👨‍💻 All of my projects are available at [github.com/jyotiprava99](github.com/jyotiprava99)
 
