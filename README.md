@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jyotipravasamal.here@gmail.com**
 
-- ⚡ Fun fact **I am a Crafter.🤓**
+- ⚡ Fun fact **I am a Crafter.🤓 Crafting stories from data, one algorithm at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
